@@ -1,0 +1,31 @@
+
+.container-left {
+  text-align: left;
+  margin: 10px auto;
+  width: 60%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.ui.button {
+  background-color: #15DEDE;
+  color: white;
+  margin: 10px 0;
+}
+
+.ui.form {
+  display: grid;
+}
+
+.ui.form input[type="text"],
+.ui.form input[type="date"],
+.ui.form input[type="email"],
+.ui.form input[type="password"] {
+  margin-bottom: 10px;
+}
+
+.vertical-margin-sm {
+  margin: 10px 0;
+}

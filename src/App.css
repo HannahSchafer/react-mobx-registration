@@ -1,0 +1,15 @@
+
+.app__container {
+  width: 50%;
+  display: inline-flex;
+}
+
+.app__logo {
+  height: 100px;
+}
+
+.app__title {
+  font-size: 36px;
+  font-weight: bold;
+  padding: 20px 0;
+}
