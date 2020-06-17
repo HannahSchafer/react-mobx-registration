@@ -11,7 +11,20 @@ Segment UI for styling
 
 ## Screenshots
 
-in /public/static
+![alt text](public/static/signup.png "signup page")
+
+![alt text](public/static/email_required_signup.png "email required validation error")
+
+![alt text](public/static/name_too_short.png "name validation error")
+
+![alt text](public/static/passwords_do_not_match.png "password confirmation validation error")
+
+![alt text](public/static/login.png "login page")
+
+![alt text](public/static/email_required.png "email required validation error")
+
+![alt text](public/static/password_required.png "email required validation error")
+
 
 ### Routes
 
